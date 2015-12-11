@@ -1,0 +1,21 @@
+{
+  "name": "app-skeleton",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/app-skeleton",
+  "license": "MIT",
+  "private": true,
+  "readmeFilename": "README.md",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "dthrong"
+  },
+  "dependencies": {
+    "dnewrelic": "^1.4.0",
+    "dthrong": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/app-skeleton.git"
+  }
+}
