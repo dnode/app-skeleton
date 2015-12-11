@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "dnewrelic": "^1.4.0",
-    "dthrong": "^2.2.0"
+    "dthrong": "^2.3.0"
   },
   "repository": {
     "type": "git",
